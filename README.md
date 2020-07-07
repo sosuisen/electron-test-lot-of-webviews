@@ -3,7 +3,8 @@
 This is a project for verifying the bug of Electron which fails to load a lot of webviews.
 
 ## Environment
-- Electron 9.0.2 (Node.js 12.14.1, Chromium 83.0.4103.94)
+- Electron 8.2.4 and 9.0.2
+- Windows 10 (1909)
 
 ## Abstract
 
