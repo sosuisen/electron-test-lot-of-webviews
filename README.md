@@ -2,6 +2,8 @@
 
 This is a project for verifying the bug of Electron which fails to load a lot of webviews.
 
+https://github.com/electron/electron/issues/24445
+
 ## Environment
 - Electron 8.2.4 and 9.0.2
 - Windows 10 (1909)
